@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: project_sequelize
+      appname: projectsequelize
 machine:
   node:
     version: 8.1.4
